@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>توقعات وتحليلات رياضية</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      margin: 0; padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      direction: rtl;
+    }
+    .container {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      max-width: 400px;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+    p.description {
+      color: #34495e;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    a.button {
+      display: inline-block;
+      background-color: #0088cc;
+      color: white;
+      text-decoration: none;
+      padding: 12px 25px;
+      font-weight: bold;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+      font-size: 16px;
+    }
+    a.button:hover {
+      background-color: #005f80;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>توقعات وتحليلات رياضية</h1>
+    <img src="https://via.placeholder.com/350x180.png?text=تحليلات+رياضية+دقيقة" alt="تحليلات رياضية" />
+    <p class="description">
+      نقدم توقعات دقيقة لمباريات كرة القدم مبنية على إحصائيات وأداء الفرق.<br />
+      انضم إلينا لمتابعة كل جديد.
+    </p>
+    <a class="button" href="https://t.me/kingmorocco07" target="_blank" rel="noopener noreferrer">
+      انضم الآن
+    </a>
+  </div>
+</body>
+</html>
